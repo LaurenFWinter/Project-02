@@ -4,9 +4,9 @@ import { HashRouter as Router, Route, Switch } from 'react-router-dom'
 
 import 'bulma'
 import './style.scss'
-import Station from './components/Station'
-import Home from './components/Home'
-import Navbar from './components/Navbar'
+import Station from './Station'
+import Home from './Home'
+import Navbar from './Navbar'
 
 class App extends React.Component {
 
